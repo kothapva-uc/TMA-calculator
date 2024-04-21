@@ -22,7 +22,7 @@ This is a simple calculator application which was created by using React Native,
 
 Mobile App
 
-![Calculator](Images/final-project-1.jpeg)
+![Calculator](Images/final-project-1.jpg)
 
 Source code
 
